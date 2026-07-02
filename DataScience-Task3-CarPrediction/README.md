@@ -56,7 +56,7 @@ brand, age, mileage, fuel type, and transmission type.
 ## ⚙️ Feature Engineering
 
 Two new features created:
-- **Car Age** = 2024 - Year of Purchase
+- **Car Age** = 2026 - Year of Purchase
 - **Brand** = First word extracted from car name
 
 ---
